@@ -16,6 +16,10 @@ To make this application ready for development you have to change the basic mock
 
 ## Usage
 
+> Run `npm install` and `bower install` before use
+
+> Make sure `grunt` is globally installed
+
 ### Development
 
 Run `grunt serve` for running the server.
