@@ -1,0 +1,20 @@
+nav {
+    a {
+        padding: 10px;
+
+        &.active {
+            background: #2wfb3b4d;
+            color: white;
+        }
+
+        &:hover {
+            background: #2b3b4d;
+            color: white;
+        }
+    }
+
+    li {
+        list-style-type: none;
+        display: inline-block;
+    }
+}

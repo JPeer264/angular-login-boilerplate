@@ -1,0 +1,9 @@
+# modules
+node_modules
+bower_components
+
+# grunt generated folder
+docs
+dist
+tmp
+src/assets/scss/createdFileByGrunt.scss
